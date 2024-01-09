@@ -24,3 +24,12 @@ Se ne avete tempo e voglia, provate a:
 - Stampare i risultati in pagina, invece che in console
 
 Buon lavoro e buon divertimento! 
+
+
+
+## Step Logici  es 1 palindroma 
+
+- 1 Chiedere la parola all'utente e salvarla in una variabile
+- 2 Invertire la parola salvandola in un'altra variabile
+- 3 Conforntare le due parole
+- 4 Se le palore sono uguali allora sono palindrome
