@@ -33,3 +33,14 @@ Buon lavoro e buon divertimento!
 - 2 Invertire la parola salvandola in un'altra variabile
 - 3 Conforntare le due parole
 - 4 Se le palore sono uguali allora sono palindrome
+
+
+
+
+## Step logici es 2 pari o dispari 
+
+- 1 Chiedere all'utente se sceglie pari o dispari
+- 2 Chiedere all'utente un numero
+- 3 Creare una funzione per generare numeri random da 1 a 5 
+- 4 Sommare i due numeri
+- 5 Creare la funzione per stabilire se la somma e pari o dispari 

@@ -5,12 +5,6 @@ console.log('JS OK');
 
 const userWord = prompt("inserisci una parola", "anna");
 
-/*
-if( userWord == null || userWord == "" || !isNaN(userWord)){
-    alert("non hai inserito una parola ")
-} */
-
-
 function reverseWord(word){
 
     let reverse = "";
@@ -35,3 +29,8 @@ if(userWord === results){
 }else{
     console.log("La preola non è palindroma");
 }
+
+
+
+
+//Es 2 pari o dispari
